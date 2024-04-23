@@ -1,0 +1,9 @@
+/* assignment-2.css */
+
+div {
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+    line-height: 1.5;
+    border: 1px solid #0094ff; 
+}

@@ -1,0 +1,14 @@
+/* assignment-3.css */
+
+
+section {
+    display: flex;
+    flex-direction: column; 
+    gap: 20px; 
+    margin: 20px;
+    padding: 20px;
+    background-color: #f0f0f0; 
+    border-radius: 10px; 
+    max-width: 800px;
+}
+
