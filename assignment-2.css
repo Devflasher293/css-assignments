@@ -1,9 +1,25 @@
 /* assignment-2.css */
 
+body, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+
 div {
     position: relative;
-    padding: 20px;
+    padding: 50px;
     margin: 20px;
-    line-height: 1.5;
-    border: 1px solid #0094ff; 
+    line-height: 1.6;
+    border: 1px solid #ccc;
+}
+
+
+h3 {
+    position: absolute;
+    top: -120px; 
+    left: -45px; 
+    background-color: #fff;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
 }
